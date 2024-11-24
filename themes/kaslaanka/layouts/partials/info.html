@@ -1,0 +1,17 @@
+<ul class="list-unstyled">
+    <li>
+      {{ range .Site.Params.info }}
+      <!-- <div class="meta-title"> -->
+        Title: <b>{{ .title }}</b>
+        <br>
+        Student: {{ .name }} ({{ .email }})
+        <br>
+        Preliminary Exam: {{ .date }} {{ .time }}
+        <br>
+        Advisor: {{ .advisor }}
+      <!-- </div> -->
+      {{ end }}
+    </li>
+  </ul>
+  </div>
+  

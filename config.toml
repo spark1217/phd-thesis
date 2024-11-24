@@ -1,0 +1,68 @@
+baseURL = "https://spark43.github.io"
+languageCode = "en-us"
+title = "PhD Thesis"
+theme = 'kaslaanka'
+
+[params]
+sitename = "Seoyeong Park - Dissertation Proposal"
+copyrights = "Seoyeong Park"
+defaultList = "global"
+paginationLen = 1
+#projectsURL = "https://spark43.github.io"
+brief_about = "<center><b>Understanding Minds to Shape Behavior: User-Centric Persuasion for Effective Behavior Change</b></center>"
+
+
+
+
+[[params.info]]
+title = "Understanding Minds to Shape Behavior: User-Centric Persuasion for Effective Behavior Change"
+name = "Seoyeong Park"
+email = "spark43@ncsu.edu"
+date = "2024-12-10"
+time = "14:00 - 16:00"
+advisor = "Dr. Munindar P. Singh"
+
+[[params.committee]]
+name = "Dr. Munindar P. Singh (Chair)"
+
+[[params.committee]]
+name = "Dr. David Roberts"
+
+[[params.committee]]
+name = "Dr. Sandeep Kuttal"
+
+[[params.committee]]
+name = "Dr. Chris Mayhorn"
+
+[[params.abstract]]
+content = "abstract"
+
+[[params.doc]]
+date = "2024-11-26"
+thesisURL = "url"
+
+
+#[[params.myprojects]]
+#name = "Totally Awesome Project"
+#description = "Machine Learning Magic!!!"
+#url = "https://example.com"
+
+#[[params.myprojects]]
+#name = "Kaslaanka"
+#description = "The best hugo theme ever!!!"
+#url = "https://github.com/Iossefy/kaslaanka"
+
+#[[menu.primary]]
+#name = "Home"
+#url = "/"
+#weight = 1
+
+#[[menu.primary]]
+#name = "About"
+#url = "/about"
+#weight = 2
+
+#[[menu.primary]]
+#name = "Subscribe"
+#url = "/index.xml"
+#weight = 3
