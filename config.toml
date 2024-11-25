@@ -41,7 +41,6 @@ content = "abstract"
 date = "2024-11-26"
 thesisURL = "url"
 
-
 #[[params.myprojects]]
 #name = "Totally Awesome Project"
 #description = "Machine Learning Magic!!!"

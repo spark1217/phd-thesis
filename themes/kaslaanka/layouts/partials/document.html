@@ -1,6 +1,6 @@
 <ul class="list-unstyled">
     <li>
-      {{ range .Site.Params.doc }}
+      {{ range sort .Site.Params.doc "date" "desc"}}
       <!-- <div class="meta-title"> -->
         <a href="{{ .thesisURL }}" target="_blank">Thesis Proposal ({{ .date }})</a> <br>
       <!-- </div> -->
