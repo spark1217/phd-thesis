@@ -1,25 +1,25 @@
 baseURL = "https://spark43.github.io"
 languageCode = "en-us"
-title = "PhD Thesis"
+title = "PhD Dissertation"
 theme = 'kaslaanka'
 
 [params]
-sitename = "Seoyeong Park - Dissertation Proposal"
+sitename = "Seoyeong Park - Dissertation"
 copyrights = "Seoyeong Park"
 defaultList = "global"
 paginationLen = 1
 #projectsURL = "https://spark43.github.io"
-brief_about = "thesis proposal"
+brief_about = "phd dissertation"
 
 
 
 
 [[params.info]]
-title = "Understanding Minds to Shape Behavior: User-Centric Persuasion for Effective Behavior Change"
+title = "Persuasion for Prosociality: Understanding Minds for Effective Sociotechnical Systems"
 name = "Seoyeong Park"
 email = "spark43@ncsu.edu"
-date = "2024-12-10"
-time = "14:00 - 16:00"
+date = "2025-11-07"
+time = "13:00 - 15:00 EST"
 advisor = "Dr. Munindar P. Singh"
 
 [[params.committee]]
@@ -36,6 +36,11 @@ name = "Dr. Chris Mayhorn"
 
 [[params.abstract]]
 content = "abstract"
+
+
+[[params.defense]]
+date = "2025-10-26"
+thesisURL = "https://drive.google.com/file/d/17cKxEfsueQ9iYDXyQXM_913mcEgI1t-d/view?usp=sharing"
 
 [[params.doc]]
 date = "2024-11-30"

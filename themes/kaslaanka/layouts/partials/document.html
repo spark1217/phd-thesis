@@ -1,8 +1,15 @@
 <ul class="list-unstyled">
     <li>
+      {{ range sort .Site.Params.defense "date" "desc"}}
+      <!-- <div class="meta-title"> -->
+        <a href="{{ .thesisURL }}" target="_blank" style="background-color: aquamarine;">Dissertation v1. ({{ .date }})</a> <br>
+      <!-- </div> -->
+      {{ end }}
+    </li>
+    <li>
       {{ range sort .Site.Params.doc "date" "desc"}}
       <!-- <div class="meta-title"> -->
-        <a href="{{ .thesisURL }}" target="_blank">Thesis Proposal ({{ .date }})</a> <br>
+        <a href="{{ .thesisURL }}" target="_blank">Dissertation Proposal ({{ .date }})</a> <br>
       <!-- </div> -->
       {{ end }}
     </li>

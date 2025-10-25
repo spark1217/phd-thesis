@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 
   <channel>
-    <title>PhD Thesis</title>
+    <title>PhD Dissertation</title>
     <link>https://spark43.github.io/</link>
-    <description>Recent content on PhD Thesis</description>
+    <description>Recent content on PhD Dissertation</description>
     
     <language>en-us</language><atom:link href="https://spark43.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
